@@ -1,0 +1,56 @@
+# === PYTHON / DJANGO ===
+*.py[cod]
+*.so
+*.log
+*.sqlite3
+*.db
+*.bak
+__pycache__/
+*.py,cover
+db.sqlite3
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Django specific
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+
+# === NODE / REACT ===
+node_modules/
+build/
+dist/
+frontend/node_modules/
+frontend/build/
+frontend/.env*
+# Matches .env, .env.local, .env.production etc.
+
+# === SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+
+# === EDITORS / IDEs ===
+.vscode/
+.idea/
+
+# === JUPYTER NOTEBOOK ===
+.ipynb_checkpoints/
+
+# === STATIC / MEDIA / IMAGE FILES ===
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
+
+# === TEST / COVERAGE ===
+coverage/
+.hypothesis/
+*.cover
+
+# === TEMP FILES ===
+*.tmp
