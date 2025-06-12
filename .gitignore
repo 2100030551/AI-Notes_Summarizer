@@ -39,13 +39,14 @@ Thumbs.db
 # === JUPYTER NOTEBOOK ===
 .ipynb_checkpoints/
 
-# === STATIC / MEDIA / IMAGE FILES ===
-*.png
 *.jpg
 *.jpeg
 *.gif
 *.svg
 *.webp
+!images/
+!images/**
+
 
 # === TEST / COVERAGE ===
 coverage/
