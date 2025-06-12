@@ -9,13 +9,13 @@ AI Notes Summarizer is a full-stack web application that uses React for the fron
 > Save these screenshots in a `screenshots/` folder inside your project.
 
 ### 🏠 Main Interface (Text Input & File Upload)
-(![1.png](../images/1.png))
+![1.png](images/1.png)
 
 ### 🧾 Chat History Sidebar
-(![1.png](../images/2.png))
+![2.png](images/2.png)
 
 ### 📋 Summary Result View
-(![1.png](../images/3.png))
+![3.png](images/3.png)
 
 ---
 
